@@ -85,7 +85,7 @@ Then load it in your project (see React example below).
 #### Option 3: Self-Hosted
 
 1. Create a new folder `paste_from_word` inside of the existing TinyMCE `plugins` folder
-2. Download [`index.js`](https://unpkg.com/@stumpdotworks/tinymce-paste-from-word-plugin) from unpkg
+2. Download [`index.js`](https://unpkg.com/@stumpdotworks/tinymce-paste-from-word-plugin@latest/index.js) from unpkg
 3. Save it to the new folder as `plugin.min.js`
 4. Configure your TinyMCE instance to use the plugin:
 
